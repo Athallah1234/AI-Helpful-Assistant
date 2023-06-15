@@ -1,7 +1,5 @@
 # Helpful Assistant
 
-## Introduction This bot can help you with: - Working task management - Programming related questions - Cybersecurity related concerns - and more 
-
 # Cara Install Helpful Assistant 
 ## Deskripsi Helpful Assistant adalah aplikasi asisten virtual yang dibuat dengan HTML, CSS, JavaScript, dan PHP. Aplikasi ini memberikan kemudahan bagi pengguna untuk membantu dalam pekerjaan, pemrograman, dan keamanan siber. 
 ## Persyaratan Sistem - Web server seperti XAMPP atau WAMP - Browser web seperti Google Chrome, Mozilla Firefox, atau Microsoft Edge 
