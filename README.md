@@ -10,4 +10,4 @@
 3. Belum menggunakan web server? Silakan download dan install XAMPP atau WAMP dari halaman resminya [XAMPP](https://www.apachefriends.org/download.html) atau [WAMP](https://sourceforge.net/projects/wampserver/files/).
 4. Setelah itu, buka web browser dan akses `http://localhost/helpful-assistant/index.php` pada web server Anda.
 5. Selamat! Anda telah berhasil menginstall Helpful Assistant. Jika mengalami kendala dalam proses penginstallan, silakan [buka issue baru](https://github.com/contohusername/helpful-assistant/issues) pada halaman GitHub kami atau hubungi kami di email kami di [helpful.assistant@gmail.com](mailto:helpful.assistant@gmail.com).
-## Lisensi Aplikasi ini dilindungi oleh lisensi [MIT](https://opensource.org/licenses/MIT). Lihat berkas [LICENSE](https://github.com/Athallah1234/AI-SIMPLE-ASSISTANT/blob/master/LICENSE) untuk informasi lebih lanjut.
+## Lisensi Aplikasi ini dilindungi oleh lisensi [MIT](https://opensource.org/licenses/MIT). Lihat berkas [LICENSE](https://github.com/Athallah1234/AI-SIMPLE-ASSISTANT/blob/main/LICENSE) untuk informasi lebih lanjut.
