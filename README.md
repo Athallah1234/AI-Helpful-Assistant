@@ -1,4 +1,4 @@
-# Helpful Assistant
+# AI Helpful Assistant
 
 # My Helpful Assistant ![My Helpful Assistant](https://example.com/my_helpful_assistant.png)
 
