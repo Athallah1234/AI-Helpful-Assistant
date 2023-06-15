@@ -1,5 +1,8 @@
 # Helpful Assistant
 
+# My Helpful Assistant ![My Helpful Assistant](https://example.com/my_helpful_assistant.png) Ini adalah deskripsi singkat dari My Helpful Assistant. Ini adalah asisten yang dirancang untuk membantu dalam pekerjaan, pemrograman, dan keamanan siber. 
+
+
 # Cara Install Helpful Assistant 
 ## Deskripsi Helpful Assistant adalah aplikasi asisten virtual yang dibuat dengan HTML, CSS, JavaScript, dan PHP. Aplikasi ini memberikan kemudahan bagi pengguna untuk membantu dalam pekerjaan, pemrograman, dan keamanan siber. 
 ## Persyaratan Sistem - Web server seperti XAMPP atau WAMP - Browser web seperti Google Chrome, Mozilla Firefox, atau Microsoft Edge 
