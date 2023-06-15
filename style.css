@@ -1,0 +1,129 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+}
+
+.chat-container {
+  max-width: 500px;
+  margin: 20px auto;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.chat-header {
+  background-color: #4a90e2;
+  color: #fff;
+  padding: 10px;
+}
+
+.chat-box {
+  height: 300px;
+  overflow-y: scroll;
+  padding: 10px;
+}
+
+.chat-input {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  border-top: 1px solid #ddd;
+}
+
+.chat-input input[type="text"] {
+  flex: 1;
+  padding: 5px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+}
+
+.chat-input button {
+  background-color: #4a90e2;
+  color: #fff;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.avatar {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.message {
+  display: flex;
+  align-items: center;
+}
+
+@keyframes loading {
+  0% {
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.3;
+  }
+}
+
+.loading-animation {
+  display: inline-block;
+  animation: loading 1.5s infinite;
+}
+
+.user-avatar {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  background-color: #4a90e2;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.chatbot-avatar {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  background-color: #ccc;
+  border-radius: 50%;
+  margin-left: 10px;
+}
+
+.search-results {
+  height: 300px;
+  overflow-y: scroll;
+  padding: 10px;
+}
+
+#search-box {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #ddd;
+}
+
+#search-box input[type="text"] {
+  flex: 1;
+  padding: 5px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+}
+
+#search-box button {
+  background-color: #4a90e2;
+  color: #fff;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-left: 5px;
+}
