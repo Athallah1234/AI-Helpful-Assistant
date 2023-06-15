@@ -3,11 +3,7 @@
 ## Deskripsi 
 AI Helpful Assistant adalah aplikasi asisten virtual yang dibuat dengan HTML, CSS, JavaScript, dan PHP.
 ## Fitur 
-1. **Pemrograman** - AI Helpful Assistant dapat membantu dalam melakukan beberapa tugas pemrograman, seperti menyelesaikan kode, menyediakan dokumentasi API, membantu dalam debugging, dan lainnya.
-2. **Keamanan Cyber** - AI Helpful Assistant dapat membantu dalam aspek keamanan siber, seperti memberikan saran untuk menghindari serangan siber, memeriksa keamanan aplikasi dan sistem, serta memberikan rekomendasi untuk meningkatkan keamanan.
-3. **Pekerjaan** - AI Helpful Assistant dapat membantu dalam tugas-tugas sehari-hari, seperti membuat jadwal, mengatur to-do list, dan mengatur email.
-4. **Pengembangan Web** - AI Helpful Assistant dapat membantu dalam pengembangan web, seperti membantu merancang dan membangun situs web, memastikan keamanan, dan mengoptimalkan kecepatan loading.
-
+**TIDAK ADA FITUR**
 ## Cara menggunakan 
 1. Jelaskan tugas yang ingin dilakukan oleh AI Helpful Assistant.
 2. AI Helpful Assistant akan memberikan tanggapan sesuai dengan permintaan yang diajukan.
