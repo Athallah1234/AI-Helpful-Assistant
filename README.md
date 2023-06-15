@@ -16,7 +16,7 @@ Helpful Assistant adalah aplikasi asisten virtual yang dibuat dengan HTML, CSS, 
 3. Simpan file tersebut pada direktori `htdocs` pada server lokal Anda. Direktori ini dapat ditemukan di `C:\xampp\htdocs` (jika menggunakan XAMPP) atau `C:\wamp\www` (jika menggunakan WAMP).
 4. Belum menggunakan web server? Silakan download dan install XAMPP atau WAMP dari halaman resminya [XAMPP](https://www.apachefriends.org/download.html) atau [WAMP](https://sourceforge.net/projects/wampserver/files/).
 5. Setelah itu, buka web browser dan akses `http://localhost/helpful-assistant/index.html` pada web server Anda.
-6. Selamat! Anda telah berhasil menginstall Helpful Assistant. Jika mengalami kendala dalam proses penginstallan, silakan [buka issue baru](https://github.com/contohusername/helpful-assistant/issues) pada halaman GitHub kami atau hubungi kami di email kami di [helpful.assistant@gmail.com](mailto:helpful.assistant@gmail.com).
+6. Selamat! Anda telah berhasil menginstall Helpful Assistant. Jika mengalami kendala dalam proses penginstallan, silakan [buka issue baru](https://github.com/Athallah1234/Helpful-Assistant/issues) pada halaman GitHub kami atau hubungi kami di email kami di [helpful.assistant@gmail.com](mailto:helpful.assistant@gmail.com).
 
 ## Kontribusi Kami terbuka untuk kontribusi terhadap AI Helpful Assistant. Jika Anda ingin berkontribusi, silakan forking repositori kami dan membuat pull request. Terima kasih atas dukungan Anda!
 
