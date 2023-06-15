@@ -29,4 +29,3 @@ Helpful Assistant adalah aplikasi asisten virtual yang dibuat dengan HTML, CSS, 
 3. **Modifikasi**: Anda diperbolehkan untuk memodifikasi AI ini untuk tujuan pribadi, tetapi Anda tidak diperbolehkan untuk menyebarkan hasil modifikasi secara publik.
 4. **Distribusi**: Anda diperbolehkan untuk menyebarluaskan AI ini kepada orang lain, selama tujuannya tidak bersifat komersial dan Anda mencantumkan kredit kepada [Athallah1234].
 5. **Tidak Menjual**: Dilarang keras untuk menjual AI ini kepada siapapun tanpa izin tertulis dari [Athallah1234].
-## Izin Tambahan Jika Anda ingin menggunakan AI ini untuk keperluan komersial atau publik, silakan hubungi [Athallah1234] untuk mendapatkan izin khusus.
