@@ -3,7 +3,7 @@
 $userMessage = $_GET['message'];
 
 // Call the ChatGPT API to get the chatbot response
-$apiKey = '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';
+$apiKey = 'API KEY';
 $apiUrl = 'https://api.openai.com/v1/chat/completions';
 $data = array(
     'model' => 'gpt-3.5-turbo',
