@@ -22,7 +22,7 @@ Helpful Assistant adalah aplikasi asisten virtual yang dibuat dengan HTML, CSS, 
 
 ## Lisensi Aplikasi ini dilindungi oleh lisensi [MIT](https://opensource.org/licenses/MIT). Lihat berkas [LICENSE](https://github.com/Athallah1234/Helpful-Assistant/blob/main/LICENSE) untuk informasi lebih lanjut.
 
-# Lisensi AI Lisensi ini digunakan untuk melindungi hak cipta dari AI yang dibuat oleh [Athallah1234]. 
+# Lisensi AI. 
 ## Ketentuan Lisensi 
 1. **Hak Cipta**: Seluruh hak cipta AI ini sepenuhnya dimiliki oleh [Athallah1234].
 2. **Penggunaan**: AI ini hanya dapat digunakan untuk keperluan non-komersial dan pribadi saja. Penggunaan untuk keperluan komersial dan publik hanya diperbolehkan dengan izin tertulis dari [Athallah1234].
