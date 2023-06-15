@@ -11,3 +11,12 @@
 5. Selamat! Anda telah berhasil menginstall Helpful Assistant. Jika mengalami kendala dalam proses penginstallan, silakan [buka issue baru](https://github.com/contohusername/helpful-assistant/issues) pada halaman GitHub kami atau hubungi kami di email kami di [helpful.assistant@gmail.com](mailto:helpful.assistant@gmail.com).
 
 ## Lisensi Aplikasi ini dilindungi oleh lisensi [MIT](https://opensource.org/licenses/MIT). Lihat berkas [LICENSE](https://github.com/Athallah1234/Helpful-Assistant/blob/main/LICENSE) untuk informasi lebih lanjut.
+
+# Lisensi AI Lisensi ini digunakan untuk melindungi hak cipta dari AI yang dibuat oleh [Nama Anda]. 
+## Ketentuan Lisensi 
+1. **Hak Cipta**: Seluruh hak cipta AI ini sepenuhnya dimiliki oleh [Nama Anda].
+2. **Penggunaan**: AI ini hanya dapat digunakan untuk keperluan non-komersial dan pribadi saja. Penggunaan untuk keperluan komersial dan publik hanya diperbolehkan dengan izin tertulis dari [Nama Anda].
+3. **Modifikasi**: Anda diperbolehkan untuk memodifikasi AI ini untuk tujuan pribadi, tetapi Anda tidak diperbolehkan untuk menyebarkan hasil modifikasi secara publik.
+4. **Distribusi**: Anda diperbolehkan untuk menyebarluaskan AI ini kepada orang lain, selama tujuannya tidak bersifat komersial dan Anda mencantumkan kredit kepada [Nama Anda].
+5. **Tidak Menjual**: Dilarang keras untuk menjual AI ini kepada siapapun tanpa izin tertulis dari [Nama Anda]. ## Izin Tambahan Jika Anda ingin menggunakan AI ini untuk keperluan komersial atau publik, silakan hubungi [Nama Anda] untuk mendapatkan izin khusus.
+## Penutup Lisensi AI ini diatur dan dilindungi oleh hukum dan peraturan hukum yang berlaku di Indonesia. Silakan hubungi [Nama Anda] jika Anda memiliki pertanyaan atau permintaan terkait lisensi ini. _Contoh ini hanyalah gambaran umum tentang sebuah lisensi AI dan masih ada banyak aspek yang perlu dipertimbangkan. Pastikan untuk melakukan riset dan berkonsultasi dengan ahli hukum jika Anda ingin membuat lisensi AI sendiri. Terima kasih!_
