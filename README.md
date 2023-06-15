@@ -3,7 +3,8 @@
 ## Introduction This bot can help you with: - Working task management - Programming related questions - Cybersecurity related concerns - and more 
 ## API Keys Here are the API keys/secrets needed to use this bot: - Slack API key - Microsoft Azure API key (for cybersecurity features) 
 # Cara Install Helpful Assistant 
-## Deskripsi Helpful Assistant adalah aplikasi asisten virtual yang dibuat dengan HTML, CSS, JavaScript, dan PHP. Aplikasi ini memberikan kemudahan bagi pengguna untuk membantu dalam pekerjaan, pemrograman, dan keamanan siber. ## Persyaratan Sistem - Web server seperti XAMPP atau WAMP - Browser web seperti Google Chrome, Mozilla Firefox, atau Microsoft Edge 
+## Deskripsi Helpful Assistant adalah aplikasi asisten virtual yang dibuat dengan HTML, CSS, JavaScript, dan PHP. Aplikasi ini memberikan kemudahan bagi pengguna untuk membantu dalam pekerjaan, pemrograman, dan keamanan siber. 
+## Persyaratan Sistem - Web server seperti XAMPP atau WAMP - Browser web seperti Google Chrome, Mozilla Firefox, atau Microsoft Edge 
 ## Langkah-langkah Install 
 1. Download file Helpful Assistant dari GitHub [di sini](https://github.com/contohusername/helpful-assistant).
 2. Simpan file tersebut pada direktori `htdocs` pada server lokal Anda. Direktori ini dapat ditemukan di `C:\xampp\htdocs` (jika menggunakan XAMPP) atau `C:\wamp\www` (jika menggunakan WAMP).
