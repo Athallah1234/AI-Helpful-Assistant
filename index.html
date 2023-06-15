@@ -3,8 +3,7 @@
 <head>
     <title>Chatbot</title>
     <link rel="stylesheet" type="text/css" href="style.css">
-    <link href="prism.css" rel="stylesheet" />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism.min.css" rel="stylesheet" />
 </head>
 <body>
     <div class="chat-container">
@@ -16,15 +15,11 @@
             <input type="text" id="user-input" placeholder="Send your message...">
             <button onclick="sendMessage()">Send</button>
         </div>
-
-        <div id="search-results"></div> 
-        <div id="search-box">
-            <input type="text" id="search-input" placeholder="Cari...">
-            <button onclick="search()">Cari</button>
-        </div>
     </div>
     
     <script src="script.js"></script>
-    <script src="prism.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js"></script>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 </body>
 </html>
