@@ -1,7 +1,5 @@
 # AI Helpful Assistant
 
-# AI Helpful Assistant ![AI Helpful Assistant](https://example.com/my_helpful_assistant.png)
-
 ## Deskripsi 
 AI Helpful Assistant adalah aplikasi asisten virtual yang dibuat dengan HTML, CSS, JavaScript, dan PHP. Aplikasi ini memberikan kemudahan bagi pengguna untuk membantu dalam pekerjaan, pemrograman, dan keamanan siber. 
 
