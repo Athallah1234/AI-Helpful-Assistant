@@ -6,11 +6,11 @@ AI Helpful Assistant adalah aplikasi asisten virtual yang dibuat dengan HTML, CS
 ## Fitur 
 Berikut adalah beberapa fitur yang tersedia:
 
-2. Kalkulator
+1. Kalkulator
 
 Anda dapat menggunakan saya sebagai kalkulator untuk melakukan perhitungan matematika yang sederhana hingga kompleks, termasuk rumus yang lebih rumit seperti       eksponensial dan logaritma.
 
-3. Penerjemah bahasa
+2. Penerjemah bahasa
 
 Saya dapat membantu Anda menerjemahkan teks yang ditampilkan dalam bahasa lain ke bahasa Indonesia atau sebaliknya. Saya dapat mengatasi banyak bahasa yang         berbeda, jadi jangan ragu untuk mengajukan pertanyaan apa pun!
 
