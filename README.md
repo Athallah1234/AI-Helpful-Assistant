@@ -27,9 +27,10 @@ Berikut adalah beberapa fitur yang tersedia:
 5. Setelah itu, buka web browser dan akses `http://localhost/helpful-assistant/index.html` pada web server Anda.
 6. Selamat! Anda telah berhasil menginstall AI Helpful Assistant. Jika mengalami kendala dalam proses penginstallan, silakan [buka issue baru](https://github.com/Athallah1234/Helpful-Assistant/issues) pada halaman GitHub kami atau hubungi kami di email kami di [helpful.assistant@gmail.com](mailto:helpful.assistant@gmail.com).
 
-### Pertanyaan: Apakah saya bisa mengajukan fitur baru untuk Helpful Assistant?
+# Pertanyaan AI Helpful Assistant
+### 1. Pertanyaan: Apakah saya bisa mengajukan fitur baru untuk Helpful Assistant?
 Tentu saja! Kami sangat terbuka untuk saran dan masukan baru. Anda dapat mengirimkan saran fitur melalui fitur "Issues" pada Github.
-### Pertanyaan: Apakah saya harus membayar untuk menggunakan Helpful Assistant?
+### 2. Pertanyaan: Apakah saya harus membayar untuk menggunakan Helpful Assistant?
 Untuk sementara waktu, Helpful Assistant bisa digunakan secara gratis.
 
 ## Kontribusi Kami terbuka untuk kontribusi terhadap AI Helpful Assistant. Jika Anda ingin berkontribusi, silakan forking repositori kami dan membuat pull request. Terima kasih atas dukungan Anda!
