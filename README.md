@@ -47,9 +47,8 @@ Berikut adalah beberapa fitur yang tersedia:
 
 ## Kontribusi Kami terbuka untuk kontribusi terhadap AI Helpful Assistant. Jika Anda ingin berkontribusi, silakan forking repositori kami dan membuat pull request. Terima kasih atas dukungan Anda!
 
-## Lisensi Aplikasi ini dilindungi oleh lisensi [MIT](https://opensource.org/licenses/MIT). Lihat berkas [LICENSE](https://github.com/Athallah1234/Helpful-Assistant/blob/main/LICENSE) untuk informasi lebih lanjut.
-
 # Lisensi AI. 
+## Lisensi Aplikasi ini dilindungi oleh lisensi [MIT](https://opensource.org/licenses/MIT). Lihat berkas [LICENSE](https://github.com/Athallah1234/Helpful-Assistant/blob/main/LICENSE) untuk informasi lebih lanjut.
 ## Ketentuan Lisensi 
 1. **Hak Cipta**: Seluruh hak cipta AI ini sepenuhnya dimiliki oleh [Athallah1234].
 2. **Penggunaan**: AI ini hanya dapat digunakan untuk keperluan non-komersial dan pribadi saja. Penggunaan untuk keperluan komersial dan publik hanya diperbolehkan dengan izin tertulis dari [Athallah1234].
