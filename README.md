@@ -6,11 +6,11 @@ AI Helpful Assistant adalah aplikasi asisten virtual yang dibuat dengan HTML, CS
 ## Fitur 
 Berikut adalah beberapa fitur yang tersedia pada saya:
 ## 1. Informasi cuaca
-      Saya dapat memberikan informasi tentang kondisi cuaca di wilayah Anda. Anda dapat mengajukan pertanyaan apa saja, seperti apakah saat ini sedang hujan atau         cerah, dan saya akan memberikan informasi terbaru dan akurat seputar cuaca.
+Saya dapat memberikan informasi tentang kondisi cuaca di wilayah Anda. Anda dapat mengajukan pertanyaan apa saja, seperti apakah saat ini sedang hujan atau         cerah, dan saya akan memberikan informasi terbaru dan akurat seputar cuaca.
 ## 2. Kalkulator
-      Anda dapat menggunakan saya sebagai kalkulator untuk melakukan perhitungan matematika yang sederhana hingga kompleks, termasuk rumus yang lebih rumit seperti       eksponensial dan logaritma.
+Anda dapat menggunakan saya sebagai kalkulator untuk melakukan perhitungan matematika yang sederhana hingga kompleks, termasuk rumus yang lebih rumit seperti       eksponensial dan logaritma.
 ## 5. Penerjemah bahasa
-      Saya dapat membantu Anda menerjemahkan teks yang ditampilkan dalam bahasa lain ke bahasa Indonesia atau sebaliknya. Saya dapat mengatasi banyak bahasa yang         berbeda, jadi jangan ragu untuk mengajukan pertanyaan apa pun!
+Saya dapat membantu Anda menerjemahkan teks yang ditampilkan dalam bahasa lain ke bahasa Indonesia atau sebaliknya. Saya dapat mengatasi banyak bahasa yang         berbeda, jadi jangan ragu untuk mengajukan pertanyaan apa pun!
 
 ## Cara menggunakan 
 1. Jelaskan tugas yang ingin dilakukan oleh AI Helpful Assistant.
