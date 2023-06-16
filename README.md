@@ -45,9 +45,42 @@ Berikut adalah beberapa fitur yang tersedia:
 ### 8. Apakah saya bisa mengajukan fitur baru untuk Helpful Assistant?
 **Jawaban** : Tentu saja! Kami sangat terbuka untuk saran dan masukan baru. Anda dapat mengirimkan saran fitur melalui fitur "Issues" pada Github.
 
-## Kontribusi Kami terbuka untuk kontribusi terhadap AI Helpful Assistant. Jika Anda ingin berkontribusi, silakan forking repositori kami dan membuat pull request. Terima kasih atas dukungan Anda!
+### Kontribusi
+
+Untuk kontribusi pada proyek dengan lisensi, pastikan Anda mematuhi aturan kode etik komunitas serta lisensi yang digunakan. Untuk melindungi diri Anda, pastikan Anda memahami konteks penggunaan lisensi dan bahwa Anda tidak melanggar hak cipta atau hak kekayaan intelektual milik pembuat karya cipta.
 
 # Lisensi AI. 
+### MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+
+of this software and associated documentation files (the "Software"), to deal
+
+in the Software without restriction, including without limitation the rights
+
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+
+copies of the Software, and to permit persons to whom the Software is
+
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+
+THE SOFTWARE.
 ## Lisensi Aplikasi ini dilindungi oleh lisensi [MIT](https://opensource.org/licenses/MIT). Lihat berkas [LICENSE](https://github.com/Athallah1234/Helpful-Assistant/blob/main/LICENSE) untuk informasi lebih lanjut.
 ## Ketentuan Lisensi 
 1. **Hak Cipta**: Seluruh hak cipta AI ini sepenuhnya dimiliki oleh [Athallah1234].
