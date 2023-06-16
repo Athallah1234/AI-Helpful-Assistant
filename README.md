@@ -28,10 +28,16 @@ Berikut adalah beberapa fitur yang tersedia:
 6. Selamat! Anda telah berhasil menginstall AI Helpful Assistant. Jika mengalami kendala dalam proses penginstallan, silakan [buka issue baru](https://github.com/Athallah1234/Helpful-Assistant/issues) pada halaman GitHub kami atau hubungi kami di email kami di [helpful.assistant@gmail.com](mailto:helpful.assistant@gmail.com).
 
 # Pertanyaan AI Helpful Assistant
-### 1. Pertanyaan: Apakah saya bisa mengajukan fitur baru untuk Helpful Assistant?
-Tentu saja! Kami sangat terbuka untuk saran dan masukan baru. Anda dapat mengirimkan saran fitur melalui fitur "Issues" pada Github.
-### 2. Pertanyaan: Apakah saya harus membayar untuk menggunakan Helpful Assistant?
-Untuk sementara waktu, Helpful Assistant bisa digunakan secara gratis.
+### 1. Apa itu AI?
+**Jawaban** : AI, atau Kecerdasan Buatan, merupakan sebuah teknologi yang memperbolehkan mesin untuk melaksanakan suatu tindakan yang biasanya akan memerlukan kecerdasan manusia. AI memungkinkan mesin untuk belajar, memecahkan masalah, merespons input, serta menyajikan hasil yang efektif atau efisien.
+### 2. Bagaimana cara kerja AI?
+**Jawaban** : Sistem AI terdiri dari tiga komponen dasar: input (informasi), proses (tindakan), serta output (hasil). Input diberikan ke sistem AI melalui teknologi seperti kamera atau mikrofon. Proses berlangsung pada algoritma yang diprogram untuk memproses data input dan menjalankan suatu aksi. Akhirnya, output dapat berupa tampilan visual, suara, atau bahkan perintah yang dijalankan oleh perangkat tambahan.
+### 3. Apa yang membedakan AI dengan machine learning?
+**Jawaban** : AI adalah konsep yang lebih luas untuk setiap jenis mesin yang dapat meniru kecerdasan manusia. Sebaliknya, machine learning merujuk pada cara khusus di mana mesin belajar melakukan tindakan yang lebih cerdas dengan melibatkan sebuah proses dari train, test, dan deploy. Di sini algoritma akan belajar secara otomatis dari data yang sudah disediakan.
+### 2. Apakah saya harus membayar untuk menggunakan Helpful Assistant?
+**Jawaban** : Untuk sementara waktu, Helpful Assistant bisa digunakan secara gratis.
+### 3. Apakah saya bisa mengajukan fitur baru untuk Helpful Assistant?
+**Jawaban** : Tentu saja! Kami sangat terbuka untuk saran dan masukan baru. Anda dapat mengirimkan saran fitur melalui fitur "Issues" pada Github.
 
 ## Kontribusi Kami terbuka untuk kontribusi terhadap AI Helpful Assistant. Jika Anda ingin berkontribusi, silakan forking repositori kami dan membuat pull request. Terima kasih atas dukungan Anda!
 
