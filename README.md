@@ -4,10 +4,7 @@
 AI Helpful Assistant adalah aplikasi asisten virtual yang dibuat dengan HTML, CSS, JavaScript, dan PHP.
 
 ## Fitur 
-Berikut adalah beberapa fitur yang tersedia pada saya:
-1. Informasi cuaca
-
-Saya dapat memberikan informasi tentang kondisi cuaca di wilayah Anda. Anda dapat mengajukan pertanyaan apa saja, seperti apakah saat ini sedang hujan atau         cerah, dan saya akan memberikan informasi terbaru dan akurat seputar cuaca.
+Berikut adalah beberapa fitur yang tersedia:
 
 2. Kalkulator
 
