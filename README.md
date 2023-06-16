@@ -19,7 +19,7 @@ Berikut adalah beberapa fitur yang tersedia:
 - Web Server (e.g. Apache)
 - PHP 7.0 atau lebih baru
 - MySQL atau database lainnya
-- Browser web yang mendukung HTML, CSS, dan JavaScript seperti Google Chrome, Firefox, dan Opera
+- Browser web yang mendukung HTML, CSS, JavaScript, dan PHP seperti Google Chrome, Firefox, dan Opera
 ## Langkah-langkah Install 
 1. Download file AI Helpful Assistant dari GitHub [di sini](https://github.com/Athallah1234/Helpful-Assistant/archive/refs/heads/main.zip).
 3. Simpan file tersebut pada direktori `htdocs` pada server lokal Anda. Direktori ini dapat ditemukan di `C:\xampp\htdocs` (jika menggunakan XAMPP) atau `C:\wamp\www` (jika menggunakan WAMP).
