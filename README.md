@@ -5,20 +5,10 @@ AI Helpful Assistant adalah aplikasi asisten virtual yang dibuat dengan HTML, CS
 
 ## Fitur 
 Berikut adalah beberapa fitur yang tersedia:
-1. Memiliki kemampuan untuk memberikan info dan trik tentang pemrograman dan teknologi terkini.
-2. Dapat membaca dan mengeksekusi perintah yang diberikan.
-3. Memberikan informasi tentang penggunaan system operasi Linux.
-4. Menjawab pertanyaan-pertanyaan umum seputar teknologi.
-5. Memberikan info tentang tools, library, dan bahasa pemrograman yang populer.
-6. Menjawab pertanyaan tentang bahasa pemrograman tertentu.
-7. Dapat menyediakan informasi tentang keamanan siber dan praktik terbaik dalam memproteksi website dan data.
-8. Memberikan saran tentang cara untuk meningkatkan keamanan perangkat.
-9. Memberikan tips dan trik tentang coding security seperti encoding dan encryption.
-10. Memberikan saran tentang master develop dan best practices untuk software development.
-11. Men Jawab pertanyaan tentang machine learning.
-12. Memberikan tips tentang cara untuk membuat presentasi yang menarik.
-13. Memberikan informasi tentang perkembangan terkini dalam keamanan siber.
-14. Memberikan saran tentang cara untuk meningkatkan kecepatan situs web.
+1. Memiliki kemampuan untuk menjawab pertanyaan Anda di berbagai bidang, seperti teknologi, wisata, kuliner, dan lain sebagainya.
+2. Kemampuan untuk melakukan perhitungan matematika dengan berbagai macam operator, seperti penambahan, pengurangan, perkalian, dan pembagian.
+3. Dapat melakukan konversi unit, seperti jarak, waktu, serta segala macam bentuk satuan yang umum digunakan.
+4. Dapat membantu Anda dalam mencari informasi dan mengirimkan hasil pencarian langsung ke Anda.
 
 ## Cara menggunakan 
 1. Jelaskan tugas yang ingin dilakukan oleh AI Helpful Assistant.
@@ -36,6 +26,11 @@ Berikut adalah beberapa fitur yang tersedia:
 4. Belum menggunakan web server? Silakan download dan install XAMPP atau WAMP dari halaman resminya [XAMPP](https://www.apachefriends.org/download.html) atau [WAMP](https://sourceforge.net/projects/wampserver/files/).
 5. Setelah itu, buka web browser dan akses `http://localhost/helpful-assistant/index.html` pada web server Anda.
 6. Selamat! Anda telah berhasil menginstall AI Helpful Assistant. Jika mengalami kendala dalam proses penginstallan, silakan [buka issue baru](https://github.com/Athallah1234/Helpful-Assistant/issues) pada halaman GitHub kami atau hubungi kami di email kami di [helpful.assistant@gmail.com](mailto:helpful.assistant@gmail.com).
+
+### Pertanyaan: Apakah saya bisa mengajukan fitur baru untuk Helpful Assistant?
+Tentu saja! Kami sangat terbuka untuk saran dan masukan baru. Anda dapat mengirimkan saran fitur melalui fitur "Issues" pada Github.
+### Pertanyaan: Apakah saya harus membayar untuk menggunakan Helpful Assistant?
+Untuk sementara waktu, Helpful Assistant bisa digunakan secara gratis.
 
 ## Kontribusi Kami terbuka untuk kontribusi terhadap AI Helpful Assistant. Jika Anda ingin berkontribusi, silakan forking repositori kami dan membuat pull request. Terima kasih atas dukungan Anda!
 
