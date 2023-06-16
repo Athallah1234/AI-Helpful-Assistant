@@ -5,14 +5,20 @@ AI Helpful Assistant adalah aplikasi asisten virtual yang dibuat dengan HTML, CS
 
 ## Fitur 
 Berikut adalah beberapa fitur yang tersedia:
-
-1. Kalkulator
-
-Anda dapat menggunakan saya sebagai kalkulator untuk melakukan perhitungan matematika yang sederhana hingga kompleks, termasuk rumus yang lebih rumit seperti       eksponensial dan logaritma.
-
-2. Penerjemah bahasa
-
-Saya dapat membantu Anda menerjemahkan teks yang ditampilkan dalam bahasa lain ke bahasa Indonesia atau sebaliknya. Saya dapat mengatasi banyak bahasa yang         berbeda, jadi jangan ragu untuk mengajukan pertanyaan apa pun!
+1. Memiliki kemampuan untuk memberikan info dan trik tentang pemrograman dan teknologi terkini.
+2. Dapat membaca dan mengeksekusi perintah yang diberikan.
+3. Memberikan informasi tentang penggunaan system operasi Linux.
+4. Menjawab pertanyaan-pertanyaan umum seputar teknologi.
+5. Memberikan info tentang tools, library, dan bahasa pemrograman yang populer.
+6. Menjawab pertanyaan tentang bahasa pemrograman tertentu.
+7. Dapat menyediakan informasi tentang keamanan siber dan praktik terbaik dalam memproteksi website dan data.
+8. Memberikan saran tentang cara untuk meningkatkan keamanan perangkat.
+9. Memberikan tips dan trik tentang coding security seperti encoding dan encryption.
+10. Memberikan saran tentang master develop dan best practices untuk software development.
+11. Men Jawab pertanyaan tentang machine learning.
+12. Memberikan tips tentang cara untuk membuat presentasi yang menarik.
+13. Memberikan informasi tentang perkembangan terkini dalam keamanan siber.
+14. Memberikan saran tentang cara untuk meningkatkan kecepatan situs web.
 
 ## Cara menggunakan 
 1. Jelaskan tugas yang ingin dilakukan oleh AI Helpful Assistant.
