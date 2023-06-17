@@ -23,11 +23,6 @@ function sendMessage() {
   chatbotMessage.appendChild(typingAnimation);
   chatBox.appendChild(chatbotMessage);
 
-  // Create MathJax element
-  var mathEquation = document.createElement("div");
-  mathEquation.id = "math-equation";
-  chatbotMessage.appendChild(mathEquation);
-
   // Send user message to PHP for processing
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
