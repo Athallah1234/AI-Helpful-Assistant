@@ -46,7 +46,7 @@ Berikut adalah beberapa fitur yang tersedia:
 ### 8. Apakah saya bisa mengajukan fitur baru untuk Helpful Assistant?
 **Jawaban** : **Tentu saja! Kami sangat terbuka untuk saran dan masukan baru. Anda dapat mengirimkan saran fitur melalui fitur "Issues" pada Github.**
 
-### Kontribusi
+# Kontribusi
 **Untuk kontribusi pada proyek dengan lisensi, pastikan Anda mematuhi aturan kode etik komunitas serta lisensi yang digunakan. Untuk melindungi diri Anda, pastikan Anda memahami konteks penggunaan lisensi dan bahwa Anda tidak melanggar hak cipta atau hak kekayaan intelektual milik pembuat karya cipta.**
 
 # Lisensi AI. 
