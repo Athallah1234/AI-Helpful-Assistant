@@ -23,28 +23,28 @@ Berikut adalah beberapa fitur yang tersedia:
 - Browser web yang mendukung HTML, CSS, JavaScript, dan PHP seperti Google Chrome, Firefox, dan Opera
 ## Langkah-langkah Install 
 1. Download file AI Helpful Assistant dari GitHub [di sini](https://github.com/Athallah1234/Helpful-Assistant/archive/refs/heads/main.zip).
+2. Belum menggunakan web server? Silakan download dan install XAMPP atau WAMP dari halaman resminya [XAMPP](https://www.apachefriends.org/download.html) atau [WAMP](https://sourceforge.net/projects/wampserver/files/).
 3. Simpan file tersebut pada direktori `htdocs/[nama-folder-yang-anda-buat]` pada server lokal Anda. Direktori ini dapat ditemukan di `C:\xampp\htdocs` (jika menggunakan XAMPP) atau `C:\wamp\www` (jika menggunakan WAMP).
-4. Belum menggunakan web server? Silakan download dan install XAMPP atau WAMP dari halaman resminya [XAMPP](https://www.apachefriends.org/download.html) atau [WAMP](https://sourceforge.net/projects/wampserver/files/).
-5. Setelah itu, buka web browser dan akses `http://localhost/helpful-assistant/index.html` pada web server Anda.
-6. Selamat! Anda telah berhasil menginstall AI Helpful Assistant. Jika mengalami kendala dalam proses penginstallan, silakan [buka issue baru](https://github.com/Athallah1234/Helpful-Assistant/issues) pada halaman GitHub kami atau hubungi kami di email kami di [helpful.assistant@gmail.com](mailto:helpful.assistant@gmail.com).
+4. Setelah itu, buka web browser dan akses `http://localhost/helpful-assistant/index.html` pada web server Anda.
+5. Selamat! Anda telah berhasil menginstall AI Helpful Assistant. Jika mengalami kendala dalam proses penginstallan, silakan [buka issue baru](https://github.com/Athallah1234/Helpful-Assistant/issues) pada halaman GitHub kami atau hubungi kami di email kami di [helpful.assistant@gmail.com](mailto:helpful.assistant@gmail.com).
 
 # Pertanyaan AI Helpful Assistant
 ### 1. Apa itu AI?
-**Jawaban** : AI, atau Kecerdasan Buatan, merupakan sebuah teknologi yang memperbolehkan mesin untuk melaksanakan suatu tindakan yang biasanya akan memerlukan kecerdasan manusia. AI memungkinkan mesin untuk belajar, memecahkan masalah, merespons input, serta menyajikan hasil yang efektif atau efisien.
+**Jawaban** : **AI, atau Kecerdasan Buatan, merupakan sebuah teknologi yang memperbolehkan mesin untuk melaksanakan suatu tindakan yang biasanya akan memerlukan kecerdasan manusia. AI memungkinkan mesin untuk belajar, memecahkan masalah, merespons input, serta menyajikan hasil yang efektif atau efisien.**
 ### 2. Bagaimana cara kerja AI?
-**Jawaban** : Sistem AI terdiri dari tiga komponen dasar: input (informasi), proses (tindakan), serta output (hasil). Input diberikan ke sistem AI melalui teknologi seperti kamera atau mikrofon. Proses berlangsung pada algoritma yang diprogram untuk memproses data input dan menjalankan suatu aksi. Akhirnya, output dapat berupa tampilan visual, suara, atau bahkan perintah yang dijalankan oleh perangkat tambahan.
+**Jawaban** : **Sistem AI terdiri dari tiga komponen dasar: input (informasi), proses (tindakan), serta output (hasil). Input diberikan ke sistem AI melalui teknologi seperti kamera atau mikrofon. Proses berlangsung pada algoritma yang diprogram untuk memproses data input dan menjalankan suatu aksi. Akhirnya, output dapat berupa tampilan visual, suara, atau bahkan perintah yang dijalankan oleh perangkat tambahan.**
 ### 3. Apa yang membedakan AI dengan machine learning?
-**Jawaban** : AI adalah konsep yang lebih luas untuk setiap jenis mesin yang dapat meniru kecerdasan manusia. Sebaliknya, machine learning merujuk pada cara khusus di mana mesin belajar melakukan tindakan yang lebih cerdas dengan melibatkan sebuah proses dari train, test, dan deploy. Di sini algoritma akan belajar secara otomatis dari data yang sudah disediakan.
+**Jawaban** : **AI adalah konsep yang lebih luas untuk setiap jenis mesin yang dapat meniru kecerdasan manusia. Sebaliknya, machine learning merujuk pada cara khusus di mana mesin belajar melakukan tindakan yang lebih cerdas dengan melibatkan sebuah proses dari train, test, dan deploy. Di sini algoritma akan belajar secara otomatis dari data yang sudah disediakan.**
 ### 4. Apa itu Helpful Assistant?
-**Jawaban** : Helpful Assistant adalah sebuah program komputer yang dirancang oleh Atta untuk membantu dalam berbagai tugas dengan cara memberikan informasi dan menjawab pertanyaan yang diajukan oleh pengguna. Saya bisa menjawab pertanyaan dan memberikan saran untuk berbagai topik seperti berita, kesehatan, teknologi, dan banyak lagi. Saya juga bisa membantu dalam melakukan beberapa tugas seperti mengatur jadwal, mencari informasi tentang produk atau layanan, dan lain sebagainya.
+**Jawaban** : **Helpful Assistant adalah sebuah program komputer yang dirancang oleh Atta untuk membantu dalam berbagai tugas dengan cara memberikan informasi dan menjawab pertanyaan yang diajukan oleh pengguna. Saya bisa menjawab pertanyaan dan memberikan saran untuk berbagai topik seperti berita, kesehatan, teknologi, dan banyak lagi. Saya juga bisa membantu dalam melakukan beberapa tugas seperti mengatur jadwal, mencari informasi tentang produk atau layanan, dan lain sebagainya.**
 ### 5. Apa yang harus saya lakukan jika Helpful Assistant tidak memberikan jawaban yang benar?
-**Jawaban** : Jika Helpful Assistant tidak memberikan jawaban yang benar, silakan mencoba mengajukan pertanyaan atau memberikan perintah dengan cara yang berbeda atau lebih spesifik agar saya dapat memberikan jawaban yang sesuai. Jika masih terjadi masalah, silakan hubungi tim pembuat Helpful Assistant untuk memperbaikinya.
+**Jawaban** : **Jika Helpful Assistant tidak memberikan jawaban yang benar, silakan mencoba mengajukan pertanyaan atau memberikan perintah dengan cara yang berbeda atau lebih spesifik agar saya dapat memberikan jawaban yang sesuai. Jika masih terjadi masalah, silakan hubungi tim pembuat Helpful Assistant untuk memperbaikinya.**
 ### 6. Dari mana Helpful Assistant memperoleh pengetahuannya?
-**Jawaban** : Saya memperoleh pengetahuannya dari sumber data yang terpercaya dan berkualitas seperti database publik, jurnal akademik, situs web resmi, dan dokumentasi terverifikasi. Selain itu, saya terus belajar dan ditingkatkan oleh pengembang saya untuk memastikan bahwa saya memberikan jawaban yang akurat dan bermanfaat kepada pengguna saya.
+**Jawaban** : **Saya memperoleh pengetahuannya dari sumber data yang terpercaya dan berkualitas seperti database publik, jurnal akademik, situs web resmi, dan dokumentasi terverifikasi. Selain itu, saya terus belajar dan ditingkatkan oleh pengembang saya untuk memastikan bahwa saya memberikan jawaban yang akurat dan bermanfaat kepada pengguna saya.**
 ### 7. Apakah saya harus membayar untuk menggunakan Helpful Assistant?
-**Jawaban** : Untuk sementara waktu, Helpful Assistant bisa digunakan secara gratis.
+**Jawaban** : **Untuk sementara waktu, Helpful Assistant bisa digunakan secara gratis.**
 ### 8. Apakah saya bisa mengajukan fitur baru untuk Helpful Assistant?
-**Jawaban** : Tentu saja! Kami sangat terbuka untuk saran dan masukan baru. Anda dapat mengirimkan saran fitur melalui fitur "Issues" pada Github.
+**Jawaban** : **Tentu saja! Kami sangat terbuka untuk saran dan masukan baru. Anda dapat mengirimkan saran fitur melalui fitur "Issues" pada Github.**
 
 ### Kontribusi
 **Untuk kontribusi pada proyek dengan lisensi, pastikan Anda mematuhi aturan kode etik komunitas serta lisensi yang digunakan. Untuk melindungi diri Anda, pastikan Anda memahami konteks penggunaan lisensi dan bahwa Anda tidak melanggar hak cipta atau hak kekayaan intelektual milik pembuat karya cipta.**
