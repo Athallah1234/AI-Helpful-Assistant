@@ -16,13 +16,14 @@ Berikut adalah beberapa fitur yang tersedia:
 
 # Cara Install AI Helpful Assistant 
 ## Persyaratan Sistem Pastikan sistem Anda memenuhi persyaratan sistem berikut sebelum memulai instalasi: 
+- Sistem Operasi Windows (versi terbaru) atau Linux (seperti Ubuntu, Debian, CentOS)
 - Web Server (e.g. Apache)
 - PHP 7.0 atau lebih baru
 - MySQL atau database lainnya
 - Browser web yang mendukung HTML, CSS, JavaScript, dan PHP seperti Google Chrome, Firefox, dan Opera
 ## Langkah-langkah Install 
 1. Download file AI Helpful Assistant dari GitHub [di sini](https://github.com/Athallah1234/Helpful-Assistant/archive/refs/heads/main.zip).
-3. Simpan file tersebut pada direktori `htdocs` pada server lokal Anda. Direktori ini dapat ditemukan di `C:\xampp\htdocs` (jika menggunakan XAMPP) atau `C:\wamp\www` (jika menggunakan WAMP).
+3. Simpan file tersebut pada direktori `htdocs/[nama-folder-yang-anda-buat]` pada server lokal Anda. Direktori ini dapat ditemukan di `C:\xampp\htdocs` (jika menggunakan XAMPP) atau `C:\wamp\www` (jika menggunakan WAMP).
 4. Belum menggunakan web server? Silakan download dan install XAMPP atau WAMP dari halaman resminya [XAMPP](https://www.apachefriends.org/download.html) atau [WAMP](https://sourceforge.net/projects/wampserver/files/).
 5. Setelah itu, buka web browser dan akses `http://localhost/helpful-assistant/index.html` pada web server Anda.
 6. Selamat! Anda telah berhasil menginstall AI Helpful Assistant. Jika mengalami kendala dalam proses penginstallan, silakan [buka issue baru](https://github.com/Athallah1234/Helpful-Assistant/issues) pada halaman GitHub kami atau hubungi kami di email kami di [helpful.assistant@gmail.com](mailto:helpful.assistant@gmail.com).
