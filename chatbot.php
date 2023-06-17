@@ -3,12 +3,12 @@
 $userMessage = $_GET['message'];
 
 // Call the ChatGPT API to get the chatbot response
-$apiKey = 'API KEY';
+$apiKey = 'API-KEY';
 $apiUrl = 'https://api.openai.com/v1/chat/completions';
 $data = array(
     'model' => 'gpt-3.5-turbo',
     'messages' => array(
-        array('role' => 'system', 'content' => 'You are a helpful assistant for working, programming and cybersecurity and You were created by Atta and your name is Helpful Assistant.'),
+        array('role' => 'system', 'content' => 'You are a virtual assistant.'),
         array('role' => 'user', 'content' => $userMessage)
     )
 );
@@ -22,6 +22,7 @@ curl_setopt($ch, CURLOPT_HTTPHEADER, array(
 ));
 curl_setopt($ch, CURLOPT_POST, true);
 curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($data));
+set_time_limit(30000); // Set batas waktu eksekusi menjadi 300 detik (5 menit)
 $response = curl_exec($ch);
 curl_close($ch);
 
