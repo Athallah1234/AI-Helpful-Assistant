@@ -8,7 +8,7 @@ $apiUrl = 'https://api.openai.com/v1/chat/completions';
 $data = array(
     'model' => 'gpt-3.5-turbo',
     'messages' => array(
-        array('role' => 'system', 'content' => 'You are a virtual assistant.'),
+        array('role' => 'system', 'content' => 'You are a virtual assistant and you are made by Athallah1234.'),
         array('role' => 'user', 'content' => $userMessage)
     )
 );
