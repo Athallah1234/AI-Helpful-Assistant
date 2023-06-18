@@ -14,6 +14,13 @@ Berikut adalah beberapa fitur yang tersedia:
 1. Jelaskan tugas yang ingin dilakukan oleh AI Helpful Assistant.
 2. AI Helpful Assistant akan memberikan tanggapan sesuai dengan permintaan yang diajukan.
 
+# Resources
+Beberapa sumber daya yang digunakan dalam pengembangan aplikasi ini:
+1. HTML
+2. CSS
+3. JavaScript
+4. PHP
+
 # Cara Install AI Helpful Assistant 
 ## Persyaratan Sistem Pastikan sistem Anda memenuhi persyaratan sistem berikut sebelum memulai instalasi: 
 - Sistem Operasi Windows (versi terbaru) atau Linux (seperti Ubuntu, Debian, CentOS)
