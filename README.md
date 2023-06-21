@@ -40,7 +40,7 @@ Beberapa sumber daya yang digunakan dalam pengembangan aplikasi ini:
    $apiKey = 'API-KEY';
    ```
    6. Jika tidak Terjadi Error, Selamat! Anda telah berhasil menginstall AI Helpful Assistant. Jika mengalami kendala dalam proses penginstallan, silakan [buka issue baru](https://github.com/Athallah1234/AI-Helpful-Assistant/issues/2) pada halaman GitHub kami atau hubungi kami di email kami di [helpful.assistant@gmail.com](mailto:helpful.assistant@gmail.com).
-- Ubuntu
+- Linux
    1. Download file AI Helpful Assistant dari GitHub dengan Perintah : `git clone https://github.com/Athallah1234/AI-Helpful-Assistant.git`
    2. Belum menggunakan web server? Silakan download dan install [LEMP](https://www.niagahoster.co.id/blog/cara-install-lemp-di-ubuntu/) atau [LAMP](https://www.linuxid.net/24341/cara-install-lamp-linux-apache-mysql-php-stack-di-ubuntu/)
    4. Simpan file tersebut pada direktori `/var/html/www/[nama-folder-yang-anda-buat]`
