@@ -39,7 +39,17 @@ Beberapa sumber daya yang digunakan dalam pengembangan aplikasi ini:
    ```
    $apiKey = 'API-KEY';
    ```
-   7. Jika tidak Terjadi Error, Selamat! Anda telah berhasil menginstall AI Helpful Assistant. Jika mengalami kendala dalam proses penginstallan, silakan [buka issue baru](https://github.com/Athallah1234/AI-Helpful-Assistant/issues/2) pada halaman GitHub kami atau hubungi kami di email kami di [helpful.assistant@gmail.com](mailto:helpful.assistant@gmail.com).
+   6. Jika tidak Terjadi Error, Selamat! Anda telah berhasil menginstall AI Helpful Assistant. Jika mengalami kendala dalam proses penginstallan, silakan [buka issue baru](https://github.com/Athallah1234/AI-Helpful-Assistant/issues/2) pada halaman GitHub kami atau hubungi kami di email kami di [helpful.assistant@gmail.com](mailto:helpful.assistant@gmail.com).
+- Linux
+   1. Download file AI Helpful Assistant dari GitHub
+   2. Belum menggunakan web server? Silakan download dan install LEMP atau LAMP
+   3. Simpan file tersebut pada direktori `/var/html/www/[nama-folder-yang-anda-buat]`
+   4. Setelah itu, buka web browser dan akses `http://localhost/[nama-folder-yang-anda-buat]/index.html` pada web server Anda.
+   5. Jika terjadi Error atau AI menjawab `Failed to retrieve a valid response from the ChatGPT API.` masukkan [API KEY OPENAI](https://platform.openai.com/account/api-keys) ke dalam file chatbot.php
+   ```
+   $apiKey = 'API-KEY';
+   ```
+   6. Jika tidak Terjadi Error, Selamat! Anda telah berhasil menginstall AI Helpful Assistant. Jika mengalami kendala dalam proses penginstallan, silakan [buka issue baru](https://github.com/Athallah1234/AI-Helpful-Assistant/issues/2) pada halaman GitHub kami atau hubungi kami di email kami di [helpful.assistant@gmail.com](mailto:helpful.assistant@gmail.com).
 
 # Pertanyaan AI Helpful Assistant
 ### 1. Apa itu AI?
