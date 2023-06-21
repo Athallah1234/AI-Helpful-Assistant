@@ -20,6 +20,7 @@ Beberapa sumber daya yang digunakan dalam pengembangan aplikasi ini:
 2. CSS
 3. JavaScript
 4. PHP
+5. API KEY CHATGPT OPENAI
 
 # Cara Install AI Helpful Assistant 
 ## Persyaratan Sistem Pastikan sistem Anda memenuhi persyaratan sistem berikut sebelum memulai instalasi: 
