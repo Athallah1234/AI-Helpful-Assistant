@@ -60,13 +60,15 @@ Beberapa sumber daya yang digunakan dalam pengembangan aplikasi ini:
 **Jawaban** : **AI adalah konsep yang lebih luas untuk setiap jenis mesin yang dapat meniru kecerdasan manusia. Sebaliknya, machine learning merujuk pada cara khusus di mana mesin belajar melakukan tindakan yang lebih cerdas dengan melibatkan sebuah proses dari train, test, dan deploy. Di sini algoritma akan belajar secara otomatis dari data yang sudah disediakan.**
 ### 4. Apa itu AI Helpful Assistant?
 **Jawaban** : **AI Helpful Assistant adalah sebuah program komputer yang dirancang oleh Atta untuk membantu dalam berbagai tugas dengan cara memberikan informasi dan menjawab pertanyaan yang diajukan oleh pengguna. Saya bisa menjawab pertanyaan dan memberikan saran untuk berbagai topik seperti berita, kesehatan, teknologi, dan banyak lagi. Saya juga bisa membantu dalam melakukan beberapa tugas seperti mengatur jadwal, mencari informasi tentang produk atau layanan, dan lain sebagainya.**
-### 5. Apa yang harus saya lakukan jika AI Helpful Assistant tidak memberikan jawaban yang benar?
+### 5. Apakah AI Helpful Assistant terbuat dari Teknologi AI(Artificial Intellegence)?
+**Jawaban** : **Ya, AI Helpful Assistant adalah asisten virtual yang dibuat menggunakan teknologi AI (Artificial Intelligence) atau kecerdasan buatan. Saya dirancang untuk membantu Anda dengan tugas-tugas tertentu dan memberikan informasi yang akurat dan berguna.**
+### 6. Apa yang harus saya lakukan jika AI Helpful Assistant tidak memberikan jawaban yang benar?
 **Jawaban** : **Jika AI Helpful Assistant tidak memberikan jawaban yang benar, silakan mencoba mengajukan pertanyaan atau memberikan perintah dengan cara yang berbeda atau lebih spesifik agar saya dapat memberikan jawaban yang sesuai. Jika masih terjadi masalah, silakan hubungi tim pembuat AI Helpful Assistant untuk memperbaikinya.**
-### 6. Dari mana AI Helpful Assistant memperoleh pengetahuannya?
+### 7. Dari mana AI Helpful Assistant memperoleh pengetahuannya?
 **Jawaban** : **Saya memperoleh pengetahuannya dari sumber data yang terpercaya dan berkualitas seperti database publik, jurnal akademik, situs web resmi, dan dokumentasi terverifikasi. Selain itu, saya terus belajar dan ditingkatkan oleh pengembang saya untuk memastikan bahwa saya memberikan jawaban yang akurat dan bermanfaat kepada pengguna saya.**
-### 7. Apakah saya harus membayar untuk menggunakan AI Helpful Assistant?
+### 8. Apakah saya harus membayar untuk menggunakan AI Helpful Assistant?
 **Jawaban** : **Untuk sementara waktu, Helpful Assistant bisa digunakan secara gratis.**
-### 8. Apakah saya bisa mengajukan fitur baru untuk AI Helpful Assistant?
+### 9. Apakah saya bisa mengajukan fitur baru untuk AI Helpful Assistant?
 **Jawaban** : **Tentu saja! Kami sangat terbuka untuk saran dan masukan baru. Anda dapat mengirimkan saran fitur melalui fitur ["Issues"](https://github.com/Athallah1234/AI-Helpful-Assistant/issues/3) pada Github.**
 
 # Kontribusi
