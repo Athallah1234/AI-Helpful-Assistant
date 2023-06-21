@@ -24,7 +24,7 @@ Beberapa sumber daya yang digunakan dalam pengembangan aplikasi ini:
 
 # Cara Install AI Helpful Assistant 
 ## Persyaratan Sistem Pastikan sistem Anda memenuhi persyaratan sistem berikut sebelum memulai instalasi: 
-- Sistem Operasi Windows (versi terbaru) atau Linux (seperti Ubuntu, Debian, CentOS)
+- Sistem Operasi Windows 64bit (seperti Windows 7 64bit, Windows 10 64bit, dan Windows 11 64bit) atau Linux (seperti Ubuntu, Debian, CentOS)
 - Web Server (e.g. Apache)
 - PHP 7.0 atau lebih baru
 - MySQL atau database lainnya
