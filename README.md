@@ -42,7 +42,7 @@ Beberapa sumber daya yang digunakan dalam pengembangan aplikasi ini:
 
 # Pertanyaan AI Helpful Assistant
 ### 1. Apa itu AI?
-**Jawaban** : **AI, atau Kecerdasan Buatan, merupakan sebuah teknologi yang memperbolehkan mesin untuk melaksanakan suatu tindakan yang biasanya akan memerlukan kecerdasan manusia. AI memungkinkan mesin untuk belajar, memecahkan masalah, merespons input, serta menyajikan hasil yang efektif atau efisien.**
+**Jawaban** : **AI(Artificial Intellegence), atau Kecerdasan Buatan, merupakan sebuah teknologi yang memperbolehkan mesin untuk melaksanakan suatu tindakan yang biasanya akan memerlukan kecerdasan manusia. AI memungkinkan mesin untuk belajar, memecahkan masalah, merespons input, serta menyajikan hasil yang efektif atau efisien.**
 ### 2. Bagaimana cara kerja AI?
 **Jawaban** : **Sistem AI terdiri dari tiga komponen dasar: input (informasi), proses (tindakan), serta output (hasil). Input diberikan ke sistem AI melalui teknologi seperti kamera atau mikrofon. Proses berlangsung pada algoritma yang diprogram untuk memproses data input dan menjalankan suatu aksi. Akhirnya, output dapat berupa tampilan visual, suara, atau bahkan perintah yang dijalankan oleh perangkat tambahan.**
 ### 3. Apa yang membedakan AI dengan machine learning?
