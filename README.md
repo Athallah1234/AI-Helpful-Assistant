@@ -65,7 +65,7 @@ Beberapa sumber daya yang digunakan dalam pengembangan aplikasi ini:
 ### 6. Apa yang harus saya lakukan jika AI Helpful Assistant tidak memberikan jawaban yang benar?
 **Jawaban** : **Jika AI Helpful Assistant tidak memberikan jawaban yang benar, silakan mencoba mengajukan pertanyaan atau memberikan perintah dengan cara yang berbeda atau lebih spesifik agar saya dapat memberikan jawaban yang sesuai. Jika masih terjadi masalah, silakan hubungi tim pembuat AI Helpful Assistant untuk memperbaikinya.**
 ### 7. Dari mana AI Helpful Assistant memperoleh pengetahuannya?
-**Jawaban** : **Saya memperoleh pengetahuannya dari sumber data yang terpercaya dan berkualitas seperti database publik, jurnal akademik, situs web resmi, dan dokumentasi terverifikasi. Selain itu, saya terus belajar dan ditingkatkan oleh pengembang saya untuk memastikan bahwa saya memberikan jawaban yang akurat dan bermanfaat kepada pengguna saya.**
+**Jawaban** : **AI Helpful Assistant memperoleh pengetahuannya dari sumber data yang terpercaya dan berkualitas seperti database publik, jurnal akademik, situs web resmi, dan dokumentasi terverifikasi. Selain itu, AI Helpful Assistant terus belajar dan ditingkatkan oleh pengembang saya untuk memastikan bahwa AI Helpful Assistant memberikan jawaban yang akurat dan bermanfaat kepada pengguna AI Helpful Assistant.**
 ### 8. Apakah saya harus membayar untuk menggunakan AI Helpful Assistant?
 **Jawaban** : **Untuk sementara waktu, Helpful Assistant bisa digunakan secara gratis.**
 ### 9. Apakah saya bisa mengajukan fitur baru untuk AI Helpful Assistant?
