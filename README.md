@@ -34,7 +34,11 @@ Beberapa sumber daya yang digunakan dalam pengembangan aplikasi ini:
 2. Belum menggunakan web server? Silakan download dan install XAMPP atau WAMP dari halaman resminya [XAMPP](https://www.apachefriends.org/download.html) atau [WAMP](https://sourceforge.net/projects/wampserver/files/).
 3. Simpan file tersebut pada direktori `htdocs/[nama-folder-yang-anda-buat]` pada server lokal Anda. Direktori ini dapat ditemukan di `C:\xampp\htdocs` (jika menggunakan XAMPP) atau `C:\wamp\www` (jika menggunakan WAMP).
 4. Setelah itu, buka web browser dan akses `http://localhost/helpful-assistant/index.html` pada web server Anda.
-5. Selamat! Anda telah berhasil menginstall AI Helpful Assistant. Jika mengalami kendala dalam proses penginstallan, silakan [buka issue baru](https://github.com/Athallah1234/Helpful-Assistant/issues) pada halaman GitHub kami atau hubungi kami di email kami di [helpful.assistant@gmail.com](mailto:helpful.assistant@gmail.com).
+5. Jika terjadi Error atau AI menjawab `Failed to retrieve a valid response from the ChatGPT API.` masukkan API KEY OPENAI ke dalam file chatbot.php
+   ```
+   $apiKey = 'API-KEY';
+   ```
+7. Selamat! Anda telah berhasil menginstall AI Helpful Assistant. Jika mengalami kendala dalam proses penginstallan, silakan [buka issue baru](https://github.com/Athallah1234/Helpful-Assistant/issues) pada halaman GitHub kami atau hubungi kami di email kami di [helpful.assistant@gmail.com](mailto:helpful.assistant@gmail.com).
 
 # Pertanyaan AI Helpful Assistant
 ### 1. Apa itu AI?
