@@ -38,7 +38,7 @@ Beberapa sumber daya yang digunakan dalam pengembangan aplikasi ini:
    ```
    $apiKey = 'API-KEY';
    ```
-7. Selamat! Anda telah berhasil menginstall AI Helpful Assistant. Jika mengalami kendala dalam proses penginstallan, silakan [buka issue baru](https://github.com/Athallah1234/AI-Helpful-Assistant/issues/2) pada halaman GitHub kami atau hubungi kami di email kami di [helpful.assistant@gmail.com](mailto:helpful.assistant@gmail.com).
+7. Jika tidak Terjadi Error, Selamat! Anda telah berhasil menginstall AI Helpful Assistant. Jika mengalami kendala dalam proses penginstallan, silakan [buka issue baru](https://github.com/Athallah1234/AI-Helpful-Assistant/issues/2) pada halaman GitHub kami atau hubungi kami di email kami di [helpful.assistant@gmail.com](mailto:helpful.assistant@gmail.com).
 
 # Pertanyaan AI Helpful Assistant
 ### 1. Apa itu AI?
