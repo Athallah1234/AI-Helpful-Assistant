@@ -30,15 +30,16 @@ Beberapa sumber daya yang digunakan dalam pengembangan aplikasi ini:
 - MySQL atau database lainnya
 - Browser web yang mendukung HTML, CSS, JavaScript, dan PHP seperti Google Chrome, Firefox, dan Opera
 ## Langkah-langkah Install 
-1. Download file AI Helpful Assistant dari GitHub [di sini](https://github.com/Athallah1234/Helpful-Assistant/archive/refs/heads/main.zip).
-2. Belum menggunakan web server? Silakan download dan install XAMPP atau WAMP dari halaman resminya [XAMPP](https://www.apachefriends.org/download.html) atau [WAMP](https://sourceforge.net/projects/wampserver/files/).
-3. Simpan file tersebut pada direktori `htdocs/[nama-folder-yang-anda-buat]` pada server lokal Anda. Direktori ini dapat ditemukan di `C:\xampp\htdocs` (jika menggunakan XAMPP) atau `C:\wamp\www` (jika menggunakan WAMP).
-4. Setelah itu, buka web browser dan akses `http://localhost/[nama-folder-yang-anda-buat]/index.html` pada web server Anda.
-5. Jika terjadi Error atau AI menjawab `Failed to retrieve a valid response from the ChatGPT API.` masukkan [API KEY OPENAI](https://platform.openai.com/account/api-keys) ke dalam file chatbot.php
+- Windows
+   1. Download file AI Helpful Assistant dari GitHub [di sini](https://github.com/Athallah1234/Helpful-Assistant/archive/refs/heads/main.zip).
+   2. Belum menggunakan web server? Silakan download dan install XAMPP atau WAMP dari halaman resminya [XAMPP](https://www.apachefriends.org/download.html) atau [WAMP](https://sourceforge.net/projects/wampserver/files/).
+   3. Simpan file tersebut pada direktori `htdocs/[nama-folder-yang-anda-buat]` pada server lokal Anda. Direktori ini dapat ditemukan di `C:\xampp\htdocs` (jika menggunakan XAMPP) atau `C:\wamp\www` (jika menggunakan WAMP).
+   4. Setelah itu, buka web browser dan akses `http://localhost/[nama-folder-yang-anda-buat]/index.html` pada web server Anda.
+   5. Jika terjadi Error atau AI menjawab `Failed to retrieve a valid response from the ChatGPT API.` masukkan [API KEY OPENAI](https://platform.openai.com/account/api-keys) ke dalam file chatbot.php
    ```
    $apiKey = 'API-KEY';
    ```
-7. Jika tidak Terjadi Error, Selamat! Anda telah berhasil menginstall AI Helpful Assistant. Jika mengalami kendala dalam proses penginstallan, silakan [buka issue baru](https://github.com/Athallah1234/AI-Helpful-Assistant/issues/2) pada halaman GitHub kami atau hubungi kami di email kami di [helpful.assistant@gmail.com](mailto:helpful.assistant@gmail.com).
+   7. Jika tidak Terjadi Error, Selamat! Anda telah berhasil menginstall AI Helpful Assistant. Jika mengalami kendala dalam proses penginstallan, silakan [buka issue baru](https://github.com/Athallah1234/AI-Helpful-Assistant/issues/2) pada halaman GitHub kami atau hubungi kami di email kami di [helpful.assistant@gmail.com](mailto:helpful.assistant@gmail.com).
 
 # Pertanyaan AI Helpful Assistant
 ### 1. Apa itu AI?
