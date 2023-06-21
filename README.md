@@ -16,10 +16,10 @@ Berikut adalah beberapa fitur yang tersedia:
 
 # Resources
 Beberapa sumber daya yang digunakan dalam pengembangan aplikasi ini:
-1. HTML
-2. CSS
-3. JavaScript
-4. PHP
+1. [HTML](https://id.wikipedia.org/wiki/HTML) (Hypertext Markup Language)
+2. [CSS](https://id.wikipedia.org/wiki/Cascading_Style_Sheets) (Cascading Style Sheets)
+3. [JavaScript](https://id.wikipedia.org/wiki/JavaScript)
+4. [PHP](https://id.wikipedia.org/wiki/PHP) (Hypertext Preprocessor)
 5. [API KEY CHATGPT OPENAI](https://platform.openai.com/account/api-keys)
 
 # Cara Install AI Helpful Assistant 
