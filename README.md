@@ -20,7 +20,7 @@ Beberapa sumber daya yang digunakan dalam pengembangan aplikasi ini:
 2. [CSS](https://id.wikipedia.org/wiki/Cascading_Style_Sheets) (Cascading Style Sheets)
 3. [JavaScript](https://id.wikipedia.org/wiki/JavaScript)
 4. [PHP](https://id.wikipedia.org/wiki/PHP) (Hypertext Preprocessor)
-5. [API KEY CHATGPT OPENAI](https://platform.openai.com/account/api-keys)
+5. [API KEY CHATGPT OPENAI(pay) ](https://platform.openai.com/account/api-keys)
 
 # Cara Install AI Helpful Assistant 
 ## Persyaratan Sistem Pastikan sistem Anda memenuhi persyaratan sistem berikut sebelum memulai instalasi: 
